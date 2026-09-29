@@ -20,6 +20,22 @@ I enjoy turning ideas into working products and continuously improving my skills
 ---
 
 ## 🛠️ Tech Stack
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyagujrati-max&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyagujrati-max&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhavyagujrati-max&theme=tokyonight&hide_border=true" />
+</p>
 
 ### Languages
 
